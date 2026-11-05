@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=23f2001548&label=Profile%20views&color=0e75b6&style=flat" alt="23f2001548" /> </p>
 
-- 🔭 I’m currently working on [Smart MCQ Solver](https://github.com/23f2001548/DL-23f2001548-notebook-t22026) and [IITM BS HUB](https://github.com/23f2001548/iitmbshub)
+- 🔭 I’m currently working on some college projects.
 
 - 💬 Ask me about **Python, SQL, Pytorch, Java, Machine Learning, Deep Learning, Flask, Vue JS, GenAI**
 
